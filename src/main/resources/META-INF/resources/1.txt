@@ -1,1 +1,1 @@
-classpaht:1.txt
+classpaht:META-INF/resouces/1.txt
